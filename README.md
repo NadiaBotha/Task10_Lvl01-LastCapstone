@@ -56,7 +56,7 @@ This program is useful for small businesses to track multiple tasks that are com
 ## Contributors
 Contributors include Nadia Botha and HyperionDev. 
 
-Please send an email to nadiamarais@live.co.za regarding any issues. Provide include a brief description and screenshot of the issue in the email, with Financial Calculators as the email subject. 
+Please send an email to nadiamarais@live.co.za regarding any issues. Provide include a brief description and screenshot of the issue in the email, with Task Manager as the email subject. 
 
 ## Installing and running the program
 Install Python 3.7 or a later version by clicking [here](https://www.python.org/downloads/).
@@ -65,9 +65,14 @@ Download the files from the Github repository. Ensure that all the text files an
 
 To remove existing users and tasks, in order to start with a clean program, the follwoing steps need to be carried out:
 
-1. Delete all the users, except the admin user, which is the user in the first line of the user.txt file.
+- Delete all the users, except the admin user, which is the user in the first line of the user.txt file.
 
-2. Clear the tasks.txt file.
+![](Images/Users.PNG)
+
+- Clear the tasks.txt file.
+
+![](Images/Tasks.PNG)
+
 
 Open Python IDE, IDLE, from the start menu. In IDLE, select file, open, and open the task_manager.py file. 
 
