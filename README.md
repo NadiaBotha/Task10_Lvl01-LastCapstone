@@ -25,7 +25,7 @@ The task is then written to the tasks.txt file, with the date the task was assig
 Any user can view all tasks. When this option is selected, all the tasks in the tasks.txt file is displayed in an easy to read format.
 
 ### View my tasks
-Any user can view my tasks. If this option is selected, all the tasks assigned to the username currently logged is displayed in an easy to read format, with each task assigned a number. The user has the option to select a specific number to see more details about the task, exit to the main menu or to edit the task. If the user select the option to edit the task, they can change the status of the task to complete, or they can change the assignee/due date. This updated information is then written back to the tasks.txt file.
+Any user can view my tasks. If this option is selected, all the tasks assigned to the username currently logged is displayed in an easy to read format, with each task assigned a number. The user has the option to select a specific number to see more details about the task, exit to the main menu or to edit the task. If the user selects the option to edit the task, they can change the status of the task to complete, or they can change the assignee/due date. This updated information is then written back to the tasks.txt file.
 
 ### Generate reports
 This functionality is only available to the admin user.
@@ -67,11 +67,11 @@ To remove existing users and tasks, in order to start with a clean program, the 
 
 - Delete all the users, except the admin user, which is the user in the first line of the user.txt file.
 
-![](Images/Users.PNG)
+![](Images/Users.jpg)
 
 - Clear the tasks.txt file.
 
-![](Images/Tasks.PNG)
+![](Images/Tasks.jpg)
 
 
 Open Python IDE, IDLE, from the start menu. In IDLE, select file, open, and open the task_manager.py file. 
