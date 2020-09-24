@@ -1,0 +1,6 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+nadia, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+john, Test registration , Test the functionality of user registration and report on any errors, 18 Jul 2020, 26 Jul 2020, Yes
+robin, Add user testing, Test the functionality to add new tasks and assign users, 18 Jul 2020, 01 Aug 2020, No
+nadia, Test task view report, Test if all tasks are displayed in an easy to read format, 18 Jul 2020, 10 Aug 2020, No
+mike, Improve user interface, Improve readability and overall user experience of the program, 18 Jul 2020, 15 Aug 2020, No

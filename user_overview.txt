@@ -1,0 +1,45 @@
+The total number of users are: 7
+The total number of tasks are: 6
+
+Summary Per User
+
+--------------------------------------------------------------------------------
+admin
+
+Number of tasks assigned:				1
+Percentage of total tasks assigned to the user:		16.7
+Percentage of tasks assigned that are completed:	0.0
+Percentage of tasks still to be completed:		100.0
+Percentage of tasks assigned to user, overdue:		100.0
+--------------------------------------------------------------------------------
+nadia
+
+Number of tasks assigned:				2
+Percentage of total tasks assigned to the user:		33.3
+Percentage of tasks assigned that are completed:	0.0
+Percentage of tasks still to be completed:		100.0
+Percentage of tasks assigned to user, overdue:		50.0
+--------------------------------------------------------------------------------
+john
+
+Number of tasks assigned:				1
+Percentage of total tasks assigned to the user:		16.7
+Percentage of tasks assigned that are completed:	100.0
+Percentage of tasks still to be completed:		0.0
+Percentage of tasks assigned to user, overdue:		0.0
+--------------------------------------------------------------------------------
+mike
+
+Number of tasks assigned:				1
+Percentage of total tasks assigned to the user:		16.7
+Percentage of tasks assigned that are completed:	0.0
+Percentage of tasks still to be completed:		100.0
+Percentage of tasks assigned to user, overdue:		0.0
+--------------------------------------------------------------------------------
+robin
+
+Number of tasks assigned:				1
+Percentage of total tasks assigned to the user:		16.7
+Percentage of tasks assigned that are completed:	0.0
+Percentage of tasks still to be completed:		100.0
+Percentage of tasks assigned to user, overdue:		0.0
