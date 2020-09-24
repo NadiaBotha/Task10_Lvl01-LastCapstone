@@ -1,6 +1,6 @@
 # Task10_Lvl01-LastCapstone
 
-The program enables task management, where new users can be added to use the program. Tasks can be created, tracked and assigned to existing users. The program also keeps track of completed, uncompleted and overdue tasks.
+The program is a python file that enables task management, where new users can be added to use the program. Tasks can be created, tracked and assigned to existing users. The program also keeps track of completed, uncompleted and overdue tasks.
 
 ## Functions
 The program stores the existing users in the user.txt file and all tasks that have generated in tasks.txt file. 
@@ -13,6 +13,8 @@ The program 7 main functions:
 - Generate reports
 - Generate statistics
 - Exit
+
+A python function has been created for each of these options.
 
 ### Register a new user
 This functionality is only available to the admin user. If the user logs in with the admin username and password, and he/she selects the option to register a new user, a username and password is requested for the new user. If the username entered does not exist yet, meaning it is not a duplicate, the username and password is written to the user.txt file. This user is now able to login to the program. 
